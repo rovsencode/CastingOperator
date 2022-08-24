@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\bin\Debug\netcoreapp3.1\CastingOperator.exe
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\bin\Debug\netcoreapp3.1\CastingOperator.deps.json
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\bin\Debug\netcoreapp3.1\CastingOperator.runtimeconfig.json
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\bin\Debug\netcoreapp3.1\CastingOperator.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\bin\Debug\netcoreapp3.1\CastingOperator.dll
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\bin\Debug\netcoreapp3.1\CastingOperator.pdb
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\obj\Debug\netcoreapp3.1\CastingOperator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\obj\Debug\netcoreapp3.1\CastingOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\obj\Debug\netcoreapp3.1\CastingOperator.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\obj\Debug\netcoreapp3.1\CastingOperator.AssemblyInfo.cs
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\obj\Debug\netcoreapp3.1\CastingOperator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\obj\Debug\netcoreapp3.1\CastingOperator.dll
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\obj\Debug\netcoreapp3.1\CastingOperator.pdb
+C:\Users\HP\Desktop\CastingOperator\CastingOperator\obj\Debug\netcoreapp3.1\CastingOperator.genruntimeconfig.cache
